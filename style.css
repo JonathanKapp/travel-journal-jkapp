@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Inter;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    background-color: #232B2B;
+    
+}
+
+h1 {
+    text-shadow: 1px 1px 5px white;
+    color: white;
+}
+
+.main-container {
+    margin: 20px;
+}
+
+.info-container {
+    margin-left: 10px;
+    
+}
+
+.journal-entry {  
+    margin-bottom: 30px;
+}
+.main-image {
+    width: 200px;
+    height: 230px;
+    border-radius: 5px;
+}
+
+.journal-entry {
+    display: flex;
+}
+
+.marker-main {
+    height: 30px;
+}
+
+.marker {
+    height: 15px;
+}
+
+a {
+    font-size: 0.75rem;
+    margin-left: 10px
+}
+
+.state {
+    align-items: center;
+    font-size: 0.75rem;
+}
+
+.entry-title {
+    font-size: 1.4rem;
+    margin-top: 10px;
+    color: #232B2B;
+    
+}
+
+.trip-dates {
+    font-size: 0.5rem;
+    margin-top: 5px;
+}
+
+.entry-text {
+    margin-top: 7px
+}
