@@ -15,7 +15,7 @@ export default [
         googleMapsUrl: "https://maps.google.com/?cid=4364673866404275297&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
         dates: "20 Jul - 25 Jul, 2024",
         text: "Great Smoky Mountains National Park, straddling the border of North Carolina and Tennessee, is the most visited national park in the United States, famous for its majestic mountain scenery and ancient Southern Appalachian culture",
-        image: "/images/smokies.png"
+        image: "https://littlevalleymountainresort.com/application/files/2016/5643/6911/smokymountains.jpg"
     },
     {
         id: 3,
@@ -24,6 +24,6 @@ export default [
         googleMapsUrl: "https://maps.google.com/?cid=18025638007915053591&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
         dates: "10 Sep - 18 Sep 2022",
         text: "Rocky Mountain National Park, located in Colorado is a haven for hiking, backpacking, and scenic driving, offering over 300 miles of trails for all skill levels. The park's distinct ecosystems range from montane forests to the exposed, treeless alpine zone, which makes up more than one-third of the park.",
-        image: "/images/rockies.png"
+        image: "https://adventures.com/media/4793/canadian-rockies-mountains-nature-forest-lake-peaks-landscape-1.jpg?anchor=center&mode=crop&width=970&height=645&rnd=132622769740000000&format=jpg&quality=80"
       },
     ]
