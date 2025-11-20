@@ -6,7 +6,7 @@ export default [
         googleMapsUrl: "https://maps.google.com/?cid=7991304994468701169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQ",
         dates: "12 Jun - 18 Jun, 2023",
         text: "Charleston, SC, captivates visitors with its historic charm and beautiful, well-preserved architecture. It is globally recognized for its award-winning Lowcountry culinary scene and sophisticated dining. The city offers a unique blend of Southern elegance and a relaxed, appealing coastal lifestyle.",
-        image: "/charleston.png"
+        image: "https://media.cntraveler.com/photos/6092b0310a033bd816c44976/16:9/w_2560%2Cc_limit/Charleston_GettyImages-1067850632.jpg"
     },
     {
         id: 2,
